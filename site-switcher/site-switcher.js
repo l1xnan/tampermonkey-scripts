@@ -21,6 +21,7 @@
 // @include             *.zhihu.com/search?*
 // @include             *.soku.com/*
 // @include             *.sogou.com/*
+// @include             https://google.fuckcloudnative.io/*
 // @include             /^https?://[a-z]+\.google\.[a-z,\.]+/.+$/
 // @grant               none
 // @run-at              document_end
